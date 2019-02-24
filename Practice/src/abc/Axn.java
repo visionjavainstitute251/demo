@@ -23,6 +23,10 @@ interface J {
 	
 	
 }
+interface f
+{
+	void add();
+}
 
 public class Axn implements A, J
 {
